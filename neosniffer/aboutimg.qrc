@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../neo.png</file>
+    </qresource>
+</RCC>
