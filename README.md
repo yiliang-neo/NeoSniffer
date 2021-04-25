@@ -3,4 +3,4 @@
 
 * 支持网卡选择，自定义包过滤规则，包解析等功能
 
-* NeoSniffer.zip为已发布的应用程序压缩包，下载解压后可以直接运行neosniffer.exe运行
+* NeoSniffer.zip为已发布的应用程序压缩包，下载解压后可以直接运行neosniffer.exe启动
